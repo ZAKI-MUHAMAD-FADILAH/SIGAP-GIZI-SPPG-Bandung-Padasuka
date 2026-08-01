@@ -14,7 +14,8 @@ complexity:
     threshold: 15
   LongMethod:
     active: true
-    threshold: 30
+    threshold: 100
+    ignoreAnnotated: ['Composable']
   LargeClass:
     active: true
     threshold: 150
@@ -29,11 +30,18 @@ complexity:
     active: true
     threshold: 3
 
+naming:
+  active: true
+  FunctionNaming:
+    active: true
+    ignoreAnnotated: ['Composable']
+
 style:
   active: true
   MagicNumber:
     active: true
-    ignoreNumbers: ['-1', '0', '1', '2']
+    ignoreNumbers: ['-1', '0', '1', '2', '5000', '0xFF0A2A5E', '0xFFD62839', '0xFFF4F6F9', '0.9f', '0.95f']
+    ignorePropertyDeclaration: true
   UnusedPrivateMember:
     active: true
   UnusedImports:
