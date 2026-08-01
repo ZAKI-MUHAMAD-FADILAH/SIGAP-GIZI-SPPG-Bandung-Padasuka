@@ -1,0 +1,2 @@
+-- Seed data untuk SIGAP GIZI
+-- Akan diisi pada fase berikutnya

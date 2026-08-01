@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Kosongkan untuk menonaktifkan backup sesuai GEMINI.MD -->
+    </cloud-backup>
+    <device-transfer>
+        <!-- Kosongkan untuk menonaktifkan transfer sesuai GEMINI.MD -->
+    </device-transfer>
+</data-extraction-rules>
