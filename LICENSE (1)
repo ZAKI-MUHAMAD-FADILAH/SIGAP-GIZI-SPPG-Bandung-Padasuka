@@ -1,0 +1,291 @@
+SIGAP GIZI PROPRIETARY ENTERPRISE SOFTWARE LICENSE
+Versi 1.0 — 1 Agustus 2026
+
+SPDX-License-Identifier: LicenseRef-SIGAP-GIZI-Proprietary-1.0
+
+Copyright (c) 2026 ZAKI MUHAMAD FADILAH.
+Seluruh hak dilindungi undang-undang.
+
+Produk:
+SIGAP GIZI — Sistem Informasi Geolokasi dan Arsip Penyaluran Gizi
+
+Pemilik dan Pemberi Lisensi:
+ZAKI MUHAMAD FADILAH (selanjutnya disebut “Pemilik”)
+
+Penerima Lisensi dan Operator:
+SPPG BANDUNG PADASUKA (selanjutnya disebut “Operator”)
+
+PEMBERITAHUAN PENTING
+
+Perangkat Lunak ini merupakan perangkat lunak proprietary/closed-source dan
+bukan perangkat lunak sumber terbuka. Seluruh hak yang tidak diberikan secara
+tegas dalam Lisensi ini tetap berada pada Pemilik. Menginstal, mengakses,
+menjalankan, atau menggunakan Perangkat Lunak berarti menerima ketentuan
+Lisensi ini. Jika ketentuan ini tidak disetujui, Perangkat Lunak tidak boleh
+digunakan.
+
+1. DEFINISI
+
+1.1. “Perangkat Lunak” berarti seluruh komponen asli SIGAP GIZI yang disediakan
+oleh Pemilik, termasuk kode sumber, object code, APK, konfigurasi, skema basis
+data, migrasi, Edge Function, Google Apps Script, API, antarmuka, desain UI/UX,
+aset visual, dokumentasi, build pipeline, release artifact, pembaruan, patch,
+dan karya turunannya, sejauh dibuat atau dimiliki oleh Pemilik.
+
+1.2. “Personel Berwenang” berarti petugas yang ditunjuk secara sah oleh
+Operator untuk menjalankan kegiatan operasional SPPG Bandung Padasuka dan
+memiliki akun atau perangkat yang telah disetujui.
+
+1.3. “Data Operasional” berarti data yang dimasukkan, direkam, dihasilkan, atau
+diunggah melalui Perangkat Lunak dalam kegiatan Operator, termasuk data lokasi,
+penugasan, jumlah porsi, metadata, foto dokumentasi, dan jejak operasional.
+
+1.4. “Perangkat Terotorisasi” berarti perangkat yang berada dalam penguasaan
+Operator atau Personel Berwenang dan disetujui untuk menjalankan rilis resmi
+Perangkat Lunak.
+
+2. KEPEMILIKAN KEKAYAAN INTELEKTUAL
+
+2.1. Seluruh hak, kepemilikan, dan kepentingan atas Perangkat Lunak tetap
+menjadi milik eksklusif ZAKI MUHAMAD FADILAH, kecuali komponen pihak ketiga yang
+secara tegas tunduk pada lisensinya masing-masing.
+
+2.2. Lisensi ini hanya memberikan hak penggunaan terbatas. Lisensi ini bukan
+penjualan, pengalihan, penyerahan, hibah, atau pelepasan hak cipta, hak ekonomi,
+hak moral, merek, rahasia dagang, maupun kekayaan intelektual lainnya.
+
+2.3. Penggunaan nama SPPG Bandung Padasuka pada produk, penyediaan kebutuhan,
+data, infrastruktur, masukan, pengujian, atau dukungan operasional tidak dengan
+sendirinya mengalihkan kepemilikan Perangkat Lunak kepada Operator.
+
+2.4. Operator tidak memperoleh hak untuk mendaftarkan, mengklaim, mengalihkan,
+atau melisensikan Perangkat Lunak, nama SIGAP GIZI, logo, kode sumber, desain,
+atau karya turunannya atas nama Operator maupun pihak lain.
+
+3. PEMBERIAN LISENSI OPERASIONAL
+
+3.1. Dengan tunduk pada Lisensi ini dan perjanjian tertulis terpisah apabila
+ada, Pemilik memberikan kepada Operator lisensi yang terbatas, non-eksklusif,
+tidak dapat dialihkan, dan tidak dapat disublisensikan untuk:
+
+a. menjalankan rilis resmi SIGAP GIZI hanya bagi operasional internal SPPG
+   Bandung Padasuka;
+b. memasang dan menggunakan APK resmi pada Perangkat Terotorisasi;
+c. memberikan akses kepada Personel Berwenang sesuai role dan kewenangannya;
+d. menggunakan layanan backend dan integrasi resmi yang disediakan khusus bagi
+   lingkungan operasional tersebut; dan
+e. membuat salinan cadangan yang secara wajar diperlukan untuk pemulihan,
+   sepanjang salinan itu diamankan dan mempertahankan seluruh pemberitahuan
+   kepemilikan.
+
+3.2. Lisensi tidak mencakup SPPG lain, unit lain, cabang lain, mitra, vendor,
+atau pihak ketiga tanpa persetujuan tertulis sebelumnya dari Pemilik.
+
+3.3. Tidak ada hak yang timbul secara tersirat, berdasarkan estoppel, atau
+berdasarkan tindakan lain di luar hak yang diberikan secara tegas dalam
+Lisensi ini.
+
+4. KEDUDUKAN SPPG BANDUNG PADASUKA
+
+4.1. SPPG Bandung Padasuka berkedudukan semata-mata sebagai Penerima Lisensi
+dan Operator resmi Perangkat Lunak untuk ruang lingkup pada Pasal 3.
+
+4.2. Operator bukan pencipta, pemegang hak cipta, pemilik bersama, distributor,
+reseller, pemberi lisensi, atau pihak yang berwenang membuat versi turunan dari
+Perangkat Lunak.
+
+4.3. Operator boleh menyatakan secara faktual bahwa SIGAP GIZI “dioperasikan
+oleh SPPG Bandung Padasuka”, tetapi tidak boleh menyatakan atau memberi kesan
+bahwa Perangkat Lunak dimiliki atau dikembangkan oleh Operator tanpa dasar
+tertulis yang sah.
+
+5. PEMBATASAN PENGGUNAAN
+
+Kecuali diizinkan secara tegas oleh hukum yang tidak dapat dikesampingkan,
+Operator dan Personel Berwenang dilarang:
+
+a. menyalin, menerbitkan, mendistribusikan, menjual, menyewakan, meminjamkan,
+   mensublisensikan, mengalihkan, atau menyediakan Perangkat Lunak kepada pihak
+   lain;
+b. membuka, meminta, atau memberikan akses kode sumber kepada pihak yang tidak
+   mendapat persetujuan tertulis dari Pemilik;
+c. melakukan reverse engineering, dekompilasi, disassembly, ekstraksi, atau
+   upaya memperoleh kode sumber maupun rahasia teknis;
+d. memodifikasi, menerjemahkan, membuat fork, clone, white-label, plugin,
+   adaptasi, atau karya turunan;
+e. menghapus atau mengubah nama Pemilik, copyright notice, attribution,
+   signature, watermark, merek, atau pemberitahuan lisensi;
+f. membypass autentikasi, RLS, isolasi team, rate limit, audit trail, kontrol
+   akses, signature rilis, atau mekanisme keamanan lainnya;
+g. mengekstrak credential, private key, token, secret, atau data di luar hak
+   akses yang diberikan;
+h. mengunggah kode sumber atau materi rahasia ke repository publik, layanan AI,
+   layanan berbagi file, atau pihak ketiga tanpa persetujuan tertulis Pemilik;
+i. menggunakan Perangkat Lunak untuk tujuan melanggar hukum, menyesatkan,
+   merusak sistem, memalsukan dokumentasi, atau mengganggu integritas data; atau
+j. menggunakan identitas, package, logo, maupun nama SIGAP GIZI untuk aplikasi
+   lain atau rilis yang tidak disahkan.
+
+6. DATA OPERASIONAL DAN PELINDUNGAN DATA
+
+6.1. Kepemilikan Perangkat Lunak tidak memberikan kepada Pemilik kepemilikan
+atas Data Operasional milik atau dalam penguasaan sah Operator. Hak pihak yang
+menjadi subjek data tetap dihormati sesuai hukum yang berlaku.
+
+6.2. Operator bertanggung jawab atas dasar pemrosesan yang sah, ketepatan data,
+otorisasi personel, keamanan akun dan perangkat, retensi, serta penggunaan Data
+Operasional sesuai kewenangannya.
+
+6.3. Pemilik hanya boleh mengakses atau memproses Data Operasional sejauh
+diperlukan untuk menyediakan, mengamankan, memperbaiki, atau mendukung
+Perangkat Lunak, berdasarkan kewenangan atau instruksi yang sah dan dengan
+kewajiban kerahasiaan yang memadai.
+
+6.4. Data Operasional nyata tidak boleh dimasukkan ke repository publik, log
+pengembangan, screenshot publik, data uji, atau layanan pihak ketiga yang tidak
+disetujui.
+
+6.5. Ketentuan teknis pemrosesan, retensi, ekspor, penghapusan, dan insiden data
+dapat diatur lebih lanjut dalam kebijakan privasi, perjanjian pemrosesan data,
+atau perjanjian kerja sama tertulis.
+
+7. KOMPONEN DAN LAYANAN PIHAK KETIGA
+
+7.1. Library open-source, SDK, font, API, merek, dan komponen pihak ketiga tetap
+tunduk pada lisensi atau ketentuan pemiliknya masing-masing. Lisensi ini tidak
+membatasi hak yang secara sah diberikan oleh lisensi pihak ketiga tersebut.
+
+7.2. Layanan eksternal, termasuk Android, Supabase, Google Apps Script, dan
+Google Drive, tunduk pada ketersediaan serta ketentuan penyedia masing-masing.
+Tidak ada afiliasi atau pengalihan hak merek pihak ketiga yang tersirat.
+
+8. RILIS, PEMBARUAN, DAN DUKUNGAN
+
+8.1. Hanya APK, backend, script, konfigurasi, dan pembaruan yang disahkan oleh
+Pemilik yang dianggap sebagai rilis resmi SIGAP GIZI.
+
+8.2. Operator tidak boleh menandatangani ulang, mengganti signing key,
+menyebarkan build modifikasi, atau menyatakan build tidak resmi sebagai rilis
+resmi tanpa persetujuan tertulis dari Pemilik.
+
+8.3. Lisensi ini tidak dengan sendirinya mewajibkan Pemilik menyediakan fitur
+baru, pemeliharaan, dukungan, SLA, migrasi, atau pembaruan. Kewajiban tersebut,
+jika ada, harus ditentukan dalam perjanjian tertulis terpisah.
+
+9. KERAHASIAAN DAN KEAMANAN
+
+9.1. Kode sumber, credential, key material, konfigurasi nonpublik, dokumentasi
+internal, desain keamanan, dan informasi teknis nonpublik merupakan informasi
+rahasia milik pihak yang berhak atas informasi tersebut.
+
+9.2. Operator wajib menerapkan akses least-privilege, menjaga perangkat dan
+credential, serta segera melaporkan dugaan kehilangan perangkat, kebocoran
+credential, akses tidak sah, atau insiden keamanan melalui kanal resmi yang
+telah disepakati.
+
+9.3. Pemilik dapat menangguhkan credential atau akses teknis yang terdampak
+sejauh diperlukan untuk membatasi insiden keamanan, dengan pemberitahuan yang
+wajar kepada Operator apabila kondisi memungkinkan.
+
+10. MASA BERLAKU DAN PENGAKHIRAN
+
+10.1. Lisensi berlaku sejak Perangkat Lunak pertama kali diserahkan, dipasang,
+atau digunakan secara resmi dan tetap berlaku selama ketentuannya dipatuhi,
+kecuali jangka waktu lain ditetapkan dalam perjanjian tertulis.
+
+10.2. Pemilik dapat mengakhiri Lisensi karena pelanggaran material yang tidak
+diperbaiki dalam 14 (empat belas) hari kalender setelah pemberitahuan tertulis.
+Pengakhiran dapat dilakukan segera untuk distribusi tanpa izin, pelanggaran
+kekayaan intelektual, penyalahgunaan credential, atau serangan terhadap
+keamanan Perangkat Lunak.
+
+10.3. Setelah pengakhiran, Operator wajib menghentikan penggunaan dan
+memusnahkan salinan Perangkat Lunak yang berada dalam penguasaannya, kecuali
+salinan arsip yang wajib dipertahankan menurut hukum. Pengakhiran tidak
+mengalihkan kepemilikan Data Operasional kepada Pemilik dan tidak mewajibkan
+pemusnahan data yang harus dipertahankan menurut hukum.
+
+10.4. Ketentuan mengenai kepemilikan, pembatasan, kerahasiaan, data, tanggung
+jawab, penyelesaian sengketa, dan ketentuan yang menurut sifatnya harus tetap
+berlaku akan bertahan setelah Lisensi berakhir.
+
+11. JAMINAN DAN TANGGUNG JAWAB OPERASIONAL
+
+11.1. Kecuali dinyatakan lain dalam perjanjian tertulis, Perangkat Lunak
+disediakan “sebagaimana adanya” dan “sebagaimana tersedia”, sepanjang
+diperbolehkan oleh hukum.
+
+11.2. Perangkat Lunak merupakan sarana dokumentasi dan pengarsipan. Perangkat
+Lunak tidak menggantikan verifikasi lapangan, pengendalian mutu dan keamanan
+pangan, pemenuhan SOP, keputusan petugas berwenang, atau pelaporan resmi yang
+diwajibkan.
+
+11.3. Pemilik tidak menjamin keberlanjutan layanan pihak ketiga, jaringan,
+perangkat, kuota, atau perubahan kebijakan penyedia eksternal di luar kendali
+wajarnya.
+
+12. BATASAN TANGGUNG JAWAB
+
+12.1. Sepanjang diperbolehkan oleh hukum, Pemilik tidak bertanggung jawab atas
+kerugian tidak langsung, insidental, khusus, konsekuensial, kehilangan peluang,
+atau kehilangan keuntungan yang timbul dari penggunaan Perangkat Lunak.
+
+12.2. Pembatasan ini tidak berlaku terhadap tanggung jawab yang tidak dapat
+dikesampingkan menurut hukum, kesengajaan, kelalaian berat, pelanggaran
+kerahasiaan, atau pelanggaran pelindungan data oleh pihak yang bertanggung
+jawab.
+
+13. VERIFIKASI KEPATUHAN
+
+Pemilik dapat meminta konfirmasi tertulis dan informasi teknis yang wajar untuk
+memverifikasi jumlah instalasi, versi, integritas rilis, dan kepatuhan Lisensi.
+Verifikasi harus dilakukan secara proporsional dan tidak memberikan akses ke
+Data Operasional atau data pribadi tanpa dasar dan kewenangan yang sah.
+
+14. HUKUM YANG BERLAKU DAN SENGKETA
+
+14.1. Lisensi ini ditafsirkan berdasarkan hukum Republik Indonesia, termasuk
+Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta dan Peraturan Pemerintah
+Nomor 36 Tahun 2018 tentang Pencatatan Perjanjian Lisensi Kekayaan Intelektual,
+beserta perubahan atau peraturan penggantinya yang berlaku.
+
+14.2. Perselisihan terlebih dahulu diselesaikan melalui musyawarah dengan
+itikad baik selama paling lama 30 (tiga puluh) hari kalender sejak pemberitahuan
+tertulis. Jika tidak tercapai penyelesaian, para pihak dapat menggunakan
+mediasi, arbitrase, atau pengadilan yang berwenang sesuai hukum Indonesia.
+
+14.3. Untuk kepentingan pembuktian dan akibat hukum terhadap pihak ketiga, para
+pihak dapat membuat perjanjian lisensi bilateral yang ditandatangani dan
+melakukan pencatatan sesuai peraturan perundang-undangan.
+
+15. KETENTUAN UMUM
+
+15.1. Perjanjian tertulis yang ditandatangani Pemilik dan Operator dapat
+melengkapi Lisensi ini. Jika terjadi konflik, ketentuan yang lebih spesifik
+dalam perjanjian tersebut berlaku sebatas konflik itu. Pengalihan kepemilikan
+kekayaan intelektual hanya sah apabila dinyatakan secara tegas dan tertulis.
+
+15.2. Operator tidak dapat mengalihkan Lisensi tanpa persetujuan tertulis dari
+Pemilik. Perubahan organisasi, pengelola, vendor, atau personel tidak dengan
+sendirinya memperluas ruang lingkup Lisensi.
+
+15.3. Kelalaian menegakkan suatu ketentuan tidak dianggap sebagai pelepasan
+hak. Jika suatu ketentuan tidak sah atau tidak dapat dilaksanakan, ketentuan
+lainnya tetap berlaku sejauh diizinkan hukum.
+
+15.4. Perubahan Lisensi untuk rilis yang telah diberikan harus dibuat secara
+tertulis. Judul pasal hanya digunakan untuk kemudahan pembacaan.
+
+15.5. Versi Bahasa Indonesia merupakan versi yang mengikat.
+
+16. PEMBERITAHUAN KEPEMILIKAN
+
+Setiap salinan atau distribusi resmi wajib mempertahankan pemberitahuan berikut:
+
+    SIGAP GIZI
+    Copyright (c) 2026 ZAKI MUHAMAD FADILAH.
+    Proprietary and Confidential. All Rights Reserved.
+    Licensed to SPPG Bandung Padasuka for internal operational use only.
+
+PENGGUNAAN, PENYALINAN, MODIFIKASI, ATAU DISTRIBUSI TANPA IZIN TERTULIS
+DILARANG.
